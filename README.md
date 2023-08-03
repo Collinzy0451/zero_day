@@ -1,1 +1,2 @@
-My first readme
+#VAGRANT WAYS
+*feels good to code
